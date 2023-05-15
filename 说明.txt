@@ -1,4 +1,3 @@
-# MFW
 1.爬虫文件在mafengwo文件夹下。Nanjing.xlsx文件是爬取的全部评论，NanjingHao是好评,NanjingHuai是差评。
 2.BadRes是保存分析差评的结果。tfidf_景区名字_dict.txt是按行拆分每一个词汇的文件，方便后续读入词汇。
 3.ciyunImg是保存分析全部评论的词云图。
